@@ -5,10 +5,13 @@ We compared three embedding methods--GloVe, DeBERTa and sBERT
 
 ## Instructions
 **Install dependencies**
+
 You can find all necessary dependencies in SVM_glove.ipynb
 
 **Train and test SVM**
+
 To train the different models, you can run SVM_glove.ipynb, SVM_DeBERTa.ipynb and SVM_sBERT.ipynb under method_a folder
+
 The trained models are available at https://github.com/Calvert0921/NLI/tree/main/method_a/models
 
 The demo.ipynb only includes SVM with sBERT, which achieved the best performance
