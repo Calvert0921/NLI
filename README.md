@@ -14,7 +14,7 @@ To train the different models, you can run [SVM_glove.ipynb](https://github.com/
 
 The trained models are available at https://github.com/Calvert0921/NLI/tree/main/method_a/models
 
-The demo.ipynb only includes SVM with sBERT, which achieved the best performance.
+The [demo.ipynb](https://github.com/Calvert0921/NLI/blob/main/method_a/demo.ipynb) only includes SVM with sBERT, which achieved the best performance.
 
 
 # Method B: HBMP Model
